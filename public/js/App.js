@@ -14,8 +14,8 @@ class App {
 
     this.initPages();
     this.initForms();
-    this.initWidgets();
     this.initModals();
+    this.initWidgets();
 
     Sidebar.init();
 
